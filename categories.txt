@@ -1,0 +1,7 @@
+Groceries
+Dining
+Transport
+Utilities
+Entertainment
+Shopping
+Other
